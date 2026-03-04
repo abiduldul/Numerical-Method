@@ -1,2 +1,2 @@
-# Komputasi-Numeris
+# Numerical-Method
 No caption
